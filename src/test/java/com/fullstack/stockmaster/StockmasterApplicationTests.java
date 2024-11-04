@@ -8,6 +8,7 @@ class StockmasterApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
